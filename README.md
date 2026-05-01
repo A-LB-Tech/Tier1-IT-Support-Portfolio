@@ -1,3 +1,34 @@
 # Tier 1 IT Support Portfolio
 
 This repository showcases real IT support issues I have worked on and how I resolved them.
+
+## 👤 User Offboarding (Microsoft 365 / Active Directory)
+
+### Overview
+Performed user offboarding for employees by securing accounts, removing access, and preserving data according to organizational procedures.
+
+### Active Directory Actions
+- Disabled user accounts
+- Reset account passwords
+- Removed users from security groups (except required domain local groups)
+- Updated Attribute Editor:
+  - Set `msExchHideFromAddressLists` to TRUE
+  - Verified `proxyAddresses` left as not set
+
+### Microsoft 365 Admin Center
+- Blocked user sign-in
+- Removed all assigned licenses
+
+### Exchange Admin Center
+- Converted user mailboxes to shared mailboxes to retain access
+- Ensured mailbox visibility was hidden from address list
+
+### Entra ID (Azure AD)
+- Revoked all active sessions
+- Enforced re-registration of Multi-Factor Authentication (MFA)
+
+### Result
+User access fully removed while maintaining required data and mailbox availability for business use.
+
+### Notes
+Followed a structured offboarding process to ensure security, compliance, and proper access management.
