@@ -32,8 +32,10 @@ Performed user offboarding for employees by securing accounts, removing access, 
 ### Result
 User access fully removed while maintaining required data and mailbox availability for business use.
 
-### Notes
+### Key Takeway
 Followed a structured offboarding process to ensure security, compliance, and proper access management.
+
+
 
 
 
@@ -63,6 +65,9 @@ Camera functioning normally across all applications after enabling basic camera 
 
 ### Key Takeaway
 Enabling basic camera mode can resolve compatibility issues by bypassing advanced camera features, though it may limit functionality such as virtual backgrounds.
+
+
+
 
 
 
