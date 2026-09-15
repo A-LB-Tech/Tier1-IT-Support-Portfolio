@@ -1,5 +1,6 @@
 ## 👤 User Offboarding (Microsoft 365 / Active Directory)
 
+
 ## Overview
 Performed user offboarding by securing accounts, removing access, and preserving data according to organizational procedures.
 
