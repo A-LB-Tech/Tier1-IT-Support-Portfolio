@@ -1,3 +1,5 @@
+# 📁 File Access Issue (Path Length Limitation)
+
 ## Issue
 User was unable to open or attach files due to a "path too long" error. The issue occurred in File Explorer and when attaching files to email.
 
