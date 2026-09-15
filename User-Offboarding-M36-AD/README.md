@@ -7,8 +7,10 @@ Performed user offboarding by securing accounts, removing access, and preserving
 ## Active Directory Actions
 - Disabled user accounts
 - Reset account passwords
-- Removed users from security groups
-- Updated Attribute Editor settings
+- Removed users from security groups (except required domain local groups)
+- Updated Attribute Editor:
+  - Set `msExchHideFromAddressLists` to TRUE
+  - Verified `proxyAddresses` left as not set
 
 ## Microsoft 365 Admin Center
 - Blocked user sign-in
