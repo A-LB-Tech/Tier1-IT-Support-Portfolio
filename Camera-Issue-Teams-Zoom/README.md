@@ -1,3 +1,5 @@
+# 📷 Camera Issue (Teams / Zoom)
+
 ## Issue
 User reported camera not functioning across Microsoft Teams, Zoom, and browser. Camera preview appeared black in all applications.
 
